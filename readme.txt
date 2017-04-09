@@ -1,1 +1,0 @@
-will look at some of the different ways to search through collections and find data we are looking for
